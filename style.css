@@ -1,0 +1,21 @@
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    background-color: beige;
+}
+
+.heading {
+    font-family: "Brush Scrip MT", "Lucida Handwriting", cursive ;
+    font-weight: 800;
+    letter-spacing: 0.2rem;
+}
+
+.nav {
+    list-style: none;
+    color: #000;
+    text-decoration: none;
+}
+
+.recipe-image {
+    width: 400px;
+    height: auto;
+}
